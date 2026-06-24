@@ -1,0 +1,90 @@
+﻿<Window x:Class="ZKTECO_LIVE20R.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Электронный Терминал Проходной" Height="550" Width="900"
+        WindowStartupLocation="CenterScreen" Background="#1A252F">
+
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1.2*"/>
+            <ColumnDefinition Width="1.8*"/>
+        </Grid.ColumnDefinitions>
+
+        <DockPanel Grid.Row="0" Grid.ColumnSpan="2" Margin="0,0,0,20">
+            <TextBlock Text="ТЕРМИНАЛ УЧЕТА РАБОЧЕГО ВРЕМЕНИ" FontSize="20" FontWeight="Bold" Foreground="White" VerticalAlignment="Center"/>
+            <Button Command="{Binding OpenAdminPanelCommand}" Content="⚙ Регистрация (Админ)" Background="Transparent" Foreground="#566573" BorderThickness="0" HorizontalAlignment="Right" Cursor="Hand" FontSize="12"/>
+        </DockPanel>
+
+        <StackPanel Grid.Row="1" Grid.Column="0" Margin="0,0,20,0" VerticalAlignment="Center">
+
+            <ToggleButton IsChecked="{Binding IsCheckInMode, Mode=TwoWay}" Command="{Binding SetCheckInModeCommand}"
+                          Height="140" Margin="0,0,0,20" Cursor="Hand">
+                <ToggleButton.Template>
+                    <ControlTemplate TargetType="ToggleButton">
+                        <Border Name="box" Background="#23395B" CornerRadius="12" BorderThickness="3" BorderBrush="Transparent">
+                            <StackPanel VerticalAlignment="Center">
+                                <TextBlock Text="➔ ПРИХОД" FontSize="32" FontWeight="Black" Foreground="White" HorizontalAlignment="Center"/>
+                                <TextBlock Text="Нажмите перед тем как приложить палец на ВХОДЕ" FontSize="12" Foreground="#A6ACAF" HorizontalAlignment="Center" Margin="0,10,0,0"/>
+                            </StackPanel>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsChecked" Value="True">
+                                <Setter TargetName="box" Property="Background" Value="#2ECC71"/>
+                                <Setter TargetName="box" Property="BorderBrush" Value="White"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </ToggleButton.Template>
+            </ToggleButton>
+
+            <ToggleButton IsChecked="{Binding IsCheckOutMode, Mode=OneWay}" Command="{Binding SetCheckOutModeCommand}"
+                          Height="140" Cursor="Hand">
+                <ToggleButton.Template>
+                    <ControlTemplate TargetType="ToggleButton">
+                        <Border Name="box" Background="#23395B" CornerRadius="12" BorderThickness="3" BorderBrush="Transparent">
+                            <StackPanel VerticalAlignment="Center">
+                                <TextBlock Text="← УХОД" FontSize="32" FontWeight="Black" Foreground="White" HorizontalAlignment="Center"/>
+                                <TextBlock Text="Нажмите перед тем как приложить палец на ВЫХОДЕ" FontSize="12" Foreground="#A6ACAF" HorizontalAlignment="Center" Margin="0,10,0,0"/>
+                            </StackPanel>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsChecked" Value="True">
+                                <Setter TargetName="box" Property="Background" Value="#E74C3C"/>
+                                <Setter TargetName="box" Property="BorderBrush" Value="White"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </ToggleButton.Template>
+            </ToggleButton>
+        </StackPanel>
+
+        <Border Grid.Row="1" Grid.Column="1" Background="#2C3E50" CornerRadius="12" Padding="15">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <TextBlock Text="История проходов за сегодня" Foreground="#95A5A6" FontWeight="Bold" Margin="0,0,0,10" FontSize="14"/>
+                <ListBox Grid.Row="1" ItemsSource="{Binding LiveLogs}" Background="Transparent" BorderThickness="0" FontSize="13">
+                    <ListBox.ItemTemplate>
+                        <DataTemplate>
+                            <Border BorderBrush="#34495E" BorderThickness="0,0,0,1" Padding="5,8,5,8">
+                                <TextBlock Text="{Binding}" Foreground="#ECF0F1" FontFamily="Consolas"/>
+                            </Border>
+                        </DataTemplate>
+                    </ListBox.ItemTemplate>
+                </ListBox>
+            </Grid>
+        </Border>
+
+        <StatusBar Grid.Row="2" Grid.ColumnSpan="2" Background="#11171D" Foreground="#F39C12" Margin="0,15,0,0" Padding="5">
+            <TextBlock Text="{Binding StatusMessage}" FontSize="13" FontWeight="SemiBold"/>
+        </StatusBar>
+    </Grid>
+</Window>

@@ -1,0 +1,393 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dev\\ZKTECO_LIVE20R\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r\\zkteco_live20r\\services\\zklive20rservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\services\\zklive20rservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r\\zkteco_live20r\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r\\zkteco_live20r\\views\\adminregistrationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\views\\adminregistrationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r\\zkteco_live20r\\views\\notificationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\views\\notificationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r\\zkteco_live20r\\views\\passwordwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\views\\passwordwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r\\zkteco_live20r\\services\\telegramservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\services\\telegramservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r\\zkteco_live20r\\views\\adminregistrationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\views\\adminregistrationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r\\zkteco_live20r\\views\\passwordwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\views\\passwordwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r\\zkteco_live20r\\views\\notificationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\views\\notificationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r\\zkteco_live20r\\migrations\\20260623170107_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\migrations\\20260623170107_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r\\zkteco_live20r\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r\\zkteco_live20r\\services\\izkfingerprintservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\services\\izkfingerprintservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r\\zkteco_live20r\\services\\attendancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\services\\attendancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r\\zkteco_live20r\\services\\iattendancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\services\\iattendancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r\\zkteco_live20r\\infrastructure\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\infrastructure\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r\\zkteco_live20r\\infrastructure\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\infrastructure\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r\\zkteco_live20r\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r\\zkteco_live20r\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r\\zkteco_live20r\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r\\zkteco_live20r\\models\\attendancelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\models\\attendancelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r\\zkteco_live20r\\models\\fingerprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\models\\fingerprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r\\zkteco_live20r\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r\\zkteco_live20r\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TelegramService.cs",
+              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Services\\TelegramService.cs",
+              "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\Services\\TelegramService.cs",
+              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Services\\TelegramService.cs",
+              "RelativeToolTip": "ZKTECO_LIVE20R\\Services\\TelegramService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowBwAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T17:18:49.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminRegistrationWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Views\\AdminRegistrationWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\Views\\AdminRegistrationWindow.xaml.cs",
+              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Views\\AdminRegistrationWindow.xaml.cs",
+              "RelativeToolTip": "ZKTECO_LIVE20R\\Views\\AdminRegistrationWindow.xaml.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T17:10:12.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminRegistrationWindow.xaml",
+              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Views\\AdminRegistrationWindow.xaml",
+              "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\Views\\AdminRegistrationWindow.xaml",
+              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Views\\AdminRegistrationWindow.xaml",
+              "RelativeToolTip": "ZKTECO_LIVE20R\\Views\\AdminRegistrationWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-23T17:09:48.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PasswordWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Views\\PasswordWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\Views\\PasswordWindow.xaml.cs",
+              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Views\\PasswordWindow.xaml.cs",
+              "RelativeToolTip": "ZKTECO_LIVE20R\\Views\\PasswordWindow.xaml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T17:09:18.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PasswordWindow.xaml",
+              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Views\\PasswordWindow.xaml",
+              "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\Views\\PasswordWindow.xaml",
+              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Views\\PasswordWindow.xaml",
+              "RelativeToolTip": "ZKTECO_LIVE20R\\Views\\PasswordWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-23T17:09:07.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NotificationWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Views\\NotificationWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\Views\\NotificationWindow.xaml.cs",
+              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Views\\NotificationWindow.xaml.cs",
+              "RelativeToolTip": "ZKTECO_LIVE20R\\Views\\NotificationWindow.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T17:08:23.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NotificationWindow.xaml",
+              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Views\\NotificationWindow.xaml",
+              "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\Views\\NotificationWindow.xaml",
+              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Views\\NotificationWindow.xaml",
+              "RelativeToolTip": "ZKTECO_LIVE20R\\Views\\NotificationWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-23T17:07:37.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20260623170107_init.cs",
+              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Migrations\\20260623170107_init.cs",
+              "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\Migrations\\20260623170107_init.cs",
+              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Migrations\\20260623170107_init.cs",
+              "RelativeToolTip": "ZKTECO_LIVE20R\\Migrations\\20260623170107_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T17:01:07.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ZKTECO_LIVE20R\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T16:59:10.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IZkFingerprintService.cs",
+              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Services\\IZkFingerprintService.cs",
+              "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\Services\\IZkFingerprintService.cs",
+              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Services\\IZkFingerprintService.cs",
+              "RelativeToolTip": "ZKTECO_LIVE20R\\Services\\IZkFingerprintService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T16:55:04.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ZkLive20RService.cs",
+              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Services\\ZkLive20RService.cs",
+              "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\Services\\ZkLive20RService.cs",
+              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Services\\ZkLive20RService.cs",
+              "RelativeToolTip": "ZKTECO_LIVE20R\\Services\\ZkLive20RService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T16:54:19.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AttendanceRepository.cs",
+              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Services\\AttendanceRepository.cs",
+              "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\Services\\AttendanceRepository.cs",
+              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Services\\AttendanceRepository.cs",
+              "RelativeToolTip": "ZKTECO_LIVE20R\\Services\\AttendanceRepository.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAtwDMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T16:54:16.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IAttendanceRepository.cs",
+              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Services\\IAttendanceRepository.cs",
+              "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\Services\\IAttendanceRepository.cs",
+              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Services\\IAttendanceRepository.cs",
+              "RelativeToolTip": "ZKTECO_LIVE20R\\Services\\IAttendanceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T16:54:11.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Infrastructure\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\Infrastructure\\RelayCommand.cs",
+              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Infrastructure\\RelayCommand.cs",
+              "RelativeToolTip": "ZKTECO_LIVE20R\\Infrastructure\\RelayCommand.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBgAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T16:19:47.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ViewModelBase.cs",
+              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Infrastructure\\ViewModelBase.cs",
+              "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\Infrastructure\\ViewModelBase.cs",
+              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Infrastructure\\ViewModelBase.cs",
+              "RelativeToolTip": "ZKTECO_LIVE20R\\Infrastructure\\ViewModelBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T16:17:12.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "ZKTECO_LIVE20R\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAYwG0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T16:15:42.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\AssemblyInfo.cs",
+              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\AssemblyInfo.cs",
+              "RelativeToolTip": "ZKTECO_LIVE20R\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T16:15:06.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\appsettings.json",
+              "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\appsettings.json",
+              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\appsettings.json",
+              "RelativeToolTip": "ZKTECO_LIVE20R\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-23T15:55:52.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ZKTECO_LIVE20R\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAqwEAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T15:53:03.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AttendanceLog.cs",
+              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Models\\AttendanceLog.cs",
+              "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\Models\\AttendanceLog.cs",
+              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Models\\AttendanceLog.cs",
+              "RelativeToolTip": "ZKTECO_LIVE20R\\Models\\AttendanceLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T15:43:39.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FingerPrint.cs",
+              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Models\\FingerPrint.cs",
+              "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\Models\\FingerPrint.cs",
+              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Models\\FingerPrint.cs",
+              "RelativeToolTip": "ZKTECO_LIVE20R\\Models\\FingerPrint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T15:41:38.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\Models\\Employee.cs",
+              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Models\\Employee.cs",
+              "RelativeToolTip": "ZKTECO_LIVE20R\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T15:39:10.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\MainWindow.xaml",
+              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\MainWindow.xaml",
+              "RelativeToolTip": "ZKTECO_LIVE20R\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-23T15:32:51.006Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

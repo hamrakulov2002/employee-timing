@@ -1,0 +1,24 @@
+﻿<Window x:Class="ZKTECO_LIVE20R.Views.NotificationWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Статус отметки" Height="250" Width="450"
+        WindowStyle="None" AllowsTransparency="True" Background="Transparent"
+        WindowStartupLocation="CenterScreen" Topmost="True">
+
+    <Border Name="MainBorder" Background="#2ECC71" CornerRadius="15" Padding="20">
+        <Border.Effect>
+            <DropShadowEffect BlurRadius="20" Color="#000000" Opacity="0.3"/>
+        </Border.Effect>
+
+        <Grid>
+            <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+                <TextBlock Name="TxtIcon" Text="✓" FontSize="50" Foreground="White" HorizontalAlignment="Center" FontWeight="Bold" Margin="0,0,0,10"/>
+
+                <TextBlock Name="TxtPosition" Text="Директор" FontSize="22" FontWeight="Bold" Foreground="White" HorizontalAlignment="Center" TextAlignment="Center" TextWrapping="Wrap"/>
+                <TextBlock Name="TxtName" Text="Иванов Иван Иванович" FontSize="22" FontWeight="Bold" Foreground="White" HorizontalAlignment="Center" TextAlignment="Center" TextWrapping="Wrap"/>
+
+                <TextBlock Name="TxtAction" Text="ПРИХОД УСПЕШНО ЗАПИСАН" FontSize="16" Foreground="#E8F8F5" HorizontalAlignment="Center" Margin="0,10,0,0" FontWeight="SemiBold"/>
+            </StackPanel>
+        </Grid>
+    </Border>
+</Window>
