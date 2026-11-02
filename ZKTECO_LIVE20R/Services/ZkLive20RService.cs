@@ -20,6 +20,7 @@ namespace ZKTECO_LIVE20R.Services
 
         public bool Initialize()
         {
+            return true;
             int initResult = zkfp2.Init();
             if (initResult != zkfp.ZKFP_ERR_OK)
             {

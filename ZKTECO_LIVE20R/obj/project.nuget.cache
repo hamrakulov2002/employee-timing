@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "mcqd5pSB6eg=",
+  "dgSpecHash": "ir6wik53xgc=",
   "success": true,
   "projectFilePath": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj",
   "expectedPackageFiles": [
@@ -21,22 +21,11 @@
     "C:\\Users\\hamra\\.nuget\\packages\\microsoft.entityframeworkcore.design\\10.0.0\\microsoft.entityframeworkcore.design.10.0.0.nupkg.sha512",
     "C:\\Users\\hamra\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\10.0.0\\microsoft.entityframeworkcore.relational.10.0.0.nupkg.sha512",
     "C:\\Users\\hamra\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\10.0.0\\microsoft.entityframeworkcore.tools.10.0.0.nupkg.sha512",
-    "C:\\Users\\hamra\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\10.0.0\\microsoft.extensions.caching.abstractions.10.0.0.nupkg.sha512",
-    "C:\\Users\\hamra\\.nuget\\packages\\microsoft.extensions.caching.memory\\10.0.0\\microsoft.extensions.caching.memory.10.0.0.nupkg.sha512",
-    "C:\\Users\\hamra\\.nuget\\packages\\microsoft.extensions.configuration\\10.0.0\\microsoft.extensions.configuration.10.0.0.nupkg.sha512",
-    "C:\\Users\\hamra\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\10.0.0\\microsoft.extensions.configuration.abstractions.10.0.0.nupkg.sha512",
-    "C:\\Users\\hamra\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\10.0.0\\microsoft.extensions.configuration.fileextensions.10.0.0.nupkg.sha512",
-    "C:\\Users\\hamra\\.nuget\\packages\\microsoft.extensions.configuration.json\\10.0.0\\microsoft.extensions.configuration.json.10.0.0.nupkg.sha512",
-    "C:\\Users\\hamra\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.0\\microsoft.extensions.dependencyinjection.10.0.0.nupkg.sha512",
-    "C:\\Users\\hamra\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.0\\microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\hamra\\.nuget\\packages\\microsoft.extensions.configuration\\10.0.14\\microsoft.extensions.configuration.10.0.14.nupkg.sha512",
+    "C:\\Users\\hamra\\.nuget\\packages\\microsoft.extensions.configuration.json\\10.0.14\\microsoft.extensions.configuration.json.10.0.14.nupkg.sha512",
     "C:\\Users\\hamra\\.nuget\\packages\\microsoft.extensions.dependencymodel\\10.0.0\\microsoft.extensions.dependencymodel.10.0.0.nupkg.sha512",
-    "C:\\Users\\hamra\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\10.0.0\\microsoft.extensions.fileproviders.abstractions.10.0.0.nupkg.sha512",
-    "C:\\Users\\hamra\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\10.0.0\\microsoft.extensions.fileproviders.physical.10.0.0.nupkg.sha512",
-    "C:\\Users\\hamra\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\10.0.0\\microsoft.extensions.filesystemglobbing.10.0.0.nupkg.sha512",
-    "C:\\Users\\hamra\\.nuget\\packages\\microsoft.extensions.logging\\10.0.0\\microsoft.extensions.logging.10.0.0.nupkg.sha512",
-    "C:\\Users\\hamra\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.0\\microsoft.extensions.logging.abstractions.10.0.0.nupkg.sha512",
-    "C:\\Users\\hamra\\.nuget\\packages\\microsoft.extensions.options\\10.0.0\\microsoft.extensions.options.10.0.0.nupkg.sha512",
-    "C:\\Users\\hamra\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.0\\microsoft.extensions.primitives.10.0.0.nupkg.sha512",
+    "C:\\Users\\hamra\\.nuget\\packages\\microsoft.extensions.hosting\\10.0.14\\microsoft.extensions.hosting.10.0.14.nupkg.sha512",
+    "C:\\Users\\hamra\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\10.0.14\\microsoft.extensions.hosting.abstractions.10.0.14.nupkg.sha512",
     "C:\\Users\\hamra\\.nuget\\packages\\microsoft.net.stringtools\\17.14.28\\microsoft.net.stringtools.17.14.28.nupkg.sha512",
     "C:\\Users\\hamra\\.nuget\\packages\\mono.texttemplating\\3.0.0\\mono.texttemplating.3.0.0.nupkg.sha512",
     "C:\\Users\\hamra\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
@@ -51,5 +40,54 @@
     "C:\\Users\\hamra\\.nuget\\packages\\system.reflection.metadataloadcontext\\7.0.0\\system.reflection.metadataloadcontext.7.0.0.nupkg.sha512",
     "C:\\Users\\hamra\\.nuget\\packages\\telegram.bot\\22.10.1\\telegram.bot.22.10.1.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1510",
+      "level": "Warning",
+      "message": "PackageReference Microsoft.Extensions.Hosting.Abstractions не будет урезано. Этот пакет доступен автоматически, и на него не нужно явно ссылаться. Удалите элемент PackageReference.",
+      "projectPath": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj",
+      "libraryId": "Microsoft.Extensions.Hosting.Abstractions",
+      "targetGraphs": [
+        "net10.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1510",
+      "level": "Warning",
+      "message": "PackageReference Microsoft.Extensions.Hosting не будет урезано. Этот пакет доступен автоматически, и на него не нужно явно ссылаться. Удалите элемент PackageReference.",
+      "projectPath": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj",
+      "libraryId": "Microsoft.Extensions.Hosting",
+      "targetGraphs": [
+        "net10.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1510",
+      "level": "Warning",
+      "message": "PackageReference Microsoft.Extensions.Configuration.Json не будет урезано. Этот пакет доступен автоматически, и на него не нужно явно ссылаться. Удалите элемент PackageReference.",
+      "projectPath": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj",
+      "libraryId": "Microsoft.Extensions.Configuration.Json",
+      "targetGraphs": [
+        "net10.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1510",
+      "level": "Warning",
+      "message": "PackageReference Microsoft.Extensions.Configuration не будет урезано. Этот пакет доступен автоматически, и на него не нужно явно ссылаться. Удалите элемент PackageReference.",
+      "projectPath": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj",
+      "libraryId": "Microsoft.Extensions.Configuration",
+      "targetGraphs": [
+        "net10.0-windows7.0"
+      ]
+    }
+  ]
 }

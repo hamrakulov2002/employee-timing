@@ -70,13 +70,13 @@ namespace ZKTECO_LIVE20R.Views {
         /// InitializeComponent
         /// </summary>
         [System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "10.0.9.0")]
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "10.0.13.0")]
         public void InitializeComponent() {
             if (_contentLoaded) {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/ZKTECO_LIVE20R;component/views/adminregistrationwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/ZKTECO_LIVE20R;V1.0.0.0;component/views/adminregistrationwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Views\AdminRegistrationWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
@@ -86,7 +86,7 @@ namespace ZKTECO_LIVE20R.Views {
         }
         
         [System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "10.0.9.0")]
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "10.0.13.0")]
         [System.ComponentModel.EditorBrowsableAttribute(System.ComponentModel.EditorBrowsableState.Never)]
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Design", "CA1033:InterfaceMethodsShouldBeCallableByChildTypes")]
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Maintainability", "CA1502:AvoidExcessiveComplexity")]

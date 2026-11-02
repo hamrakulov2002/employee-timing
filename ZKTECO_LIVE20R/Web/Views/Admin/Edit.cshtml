@@ -1,0 +1,48 @@
+@model ZKTECO_LIVE20R.Models.Employee
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Редактировать сотрудника — ZKAccess</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+</head>
+<body class="bg-light">
+    <div class="container py-5">
+        <div class="row justify-content-center">
+            <div class="col-md-6">
+                <div class="d-flex justify-content-between align-items-center mb-4">
+                    <h1 class="h3 mb-0 text-dark">✏️ Редактирование данных</h1>
+                    <a href="/Admin/Index" class="btn btn-outline-secondary shadow-sm">
+                        <i class="bi bi-arrow-left"></i> Назад
+                    </a>
+                </div>
+
+                <div class="card shadow-sm border-0 rounded-4">
+                    <div class="card-body p-4">
+                        <form action="/Admin/Edit/@Model.Id" method="post">
+                            <div class="mb-3">
+                                <label for="fullName" class="form-label fw-semibold">ФИО сотрудника</label>
+                                <input type="text" class="form-control" id="fullName" name="fullName" value="@Model.FullName" required>
+                            </div>
+                            <div class="mb-4">
+                                <label for="position" class="form-label fw-semibold">Должность</label>
+                                <input type="text" class="form-control" id="position" name="position" value="@Model.Position">
+                            </div>
+                            <div class="d-grid">
+                                <button type="submit" class="btn btn-primary btn-lg shadow-sm">
+                                    <i class="bi bi-check-lg"></i> Сохранить изменения
+                                </button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

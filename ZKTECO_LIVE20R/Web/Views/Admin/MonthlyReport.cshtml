@@ -1,0 +1,114 @@
+@model IEnumerable<ZKTECO_LIVE20R.Controllers.AdminController.EmployeeMonthlyReportViewModel>
+@{
+    Layout = null;
+    int currentYear = ViewBag.Year;
+    int currentMonth = ViewBag.Month;
+}
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Общий отчет за месяц — ZKAccess</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+</head>
+<body class="bg-light">
+    <div class="container py-5">
+        <div class="d-flex justify-content-between align-items-center mb-4">
+            <div>
+                <h1 class="h3 mb-0 text-dark">📈 Общий отчет за месяц</h1>
+                <p class="text-muted">Период: @currentMonth.@currentYear (Сводка по отработанному времени)</p>
+            </div>
+            <div>
+                <a href="/Admin/Index" class="btn btn-outline-secondary shadow-sm">
+                    <i class="bi bi-house-door"></i> Главная
+                </a>
+            </div>
+        </div>
+
+        <!-- Фильтр по месяцу и году -->
+        <div class="card shadow-sm border-0 rounded-4 mb-4">
+            <div class="card-body">
+                <form method="get" action="/Admin/MonthlyReport" class="row g-3 align-items-center">
+                    <div class="col-auto">
+                        <label class="form-label fw-semibold mb-0">Месяц:</label>
+                    </div>
+                    <div class="col-auto">
+                        <select name="month" class="form-select">
+                            @for (int m = 1; m <= 12; m++)
+                            {
+                                <option value="@m" selected="@(m == currentMonth)">@m</option>
+                            }
+                        </select>
+                    </div>
+                    <div class="col-auto">
+                        <label class="form-label fw-semibold mb-0">Год:</label>
+                    </div>
+                    <div class="col-auto">
+                        <select name="year" class="form-select">
+                            @for (int y = 2025; y <= 2030; y++)
+                            {
+                                <option value="@y" selected="@(y == currentYear)">@y</option>
+                            }
+                        </select>
+                    </div>
+                    <div class="col-auto">
+                        <button type="submit" class="btn btn-primary">Показать</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+
+        <!-- Сводная таблица по часам -->
+        <div class="card shadow-sm border-0 rounded-4">
+            <div class="card-body p-0">
+                <div class="table-responsive">
+                    <table class="table table-hover align-middle mb-0">
+                        <thead class="table-dark">
+                            <tr>
+                                <th class="ps-4">Сотрудник</th>
+                                <th>Должность</th>
+                                <th class="text-center">Активных дней</th>
+                                <th class="text-end pe-4">Отработано за месяц</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @if (!Model.Any())
+                            {
+                                <tr>
+                                    <td colspan="4" class="text-center py-4 text-muted">Сотрудники не найдены.</td>
+                                </tr>
+                            }
+                            else
+                            {
+                                @foreach (var row in Model)
+                                {
+                                    <tr>
+                                        <td class="ps-4 fw-semibold text-dark">@row.FullName</td>
+                                        <td>
+                                            <span class="badge bg-secondary bg-opacity-10 text-secondary">
+                                                @(string.IsNullOrEmpty(row.Position) ? "Не указана" : row.Position)
+                                            </span>
+                                        </td>
+                                        <td class="text-center">
+                                            <span class="badge bg-info bg-opacity-10 text-info px-2 py-1">
+                                                @row.DaysWorkedCount дн.
+                                            </span>
+                                        </td>
+                                        <td class="text-end pe-4">
+                                            <span class="badge bg-success bg-opacity-10 text-success px-3 py-2 fs-6">
+                                                <i class="bi bi-clock-fill"></i> @row.TotalHours ч. @row.TotalMinutes мин.
+                                            </span>
+                                        </td>
+                                    </tr>
+                                }
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

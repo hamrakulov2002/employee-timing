@@ -54,5 +54,14 @@
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("system.commandline.resources.dll")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("system.commandline.resources.dll")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("system.commandline.resources.dll")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("appsettings.json")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("views/admin/index.cshtml")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("views/admin/monthlyreport.cshtml")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("web/views/admin/create.cshtml")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("web/views/admin/edit.cshtml")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("web/views/admin/employeereport.cshtml")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("web/views/admin/index.cshtml")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("web/views/admin/monthlyreport.cshtml")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("web/views/admin/payroll.cshtml")]
 
 

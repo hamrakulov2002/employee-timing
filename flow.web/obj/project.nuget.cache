@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "BUsNDPaxWCA=",
+  "success": false,
+  "projectFilePath": "D:\\Dev\\ZKTECO_LIVE20R\\flow.web\\flow.web.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Проект ZKTECO_LIVE20R несовместим с net10.0 (.NETCoreApp,Version=v10.0). Проект ZKTECO_LIVE20R поддерживает: net10.0-windows7.0 (.NETCoreApp,Version=v10.0)",
+      "projectPath": "D:\\Dev\\ZKTECO_LIVE20R\\flow.web\\flow.web.csproj",
+      "filePath": "D:\\Dev\\ZKTECO_LIVE20R\\flow.web\\flow.web.csproj",
+      "libraryId": "ZKTECO_LIVE20R",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}

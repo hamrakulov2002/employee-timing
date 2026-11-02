@@ -1,0 +1,144 @@
+@model IEnumerable<ZKTECO_LIVE20R.Models.AttendanceLog>
+@{
+    Layout = null;
+    var emp = ViewBag.Employee as ZKTECO_LIVE20R.Models.Employee;
+    string startDate = ViewBag.StartDate;
+    string endDate = ViewBag.EndDate;
+    decimal hourlyRate = ViewBag.HourlyRate;
+    double totalHours = ViewBag.TotalHours;
+    decimal totalPay = ViewBag.TotalPay;
+}
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Расчет зарплаты и аванса — ZKAccess</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+</head>
+<body class="bg-light">
+
+    <!-- ШАПКА -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark shadow-sm">
+        <div class="container">
+            <a class="navbar-brand fw-bold" href="/Admin/Index">
+                <i class="bi bi-shield-lock-fill text-success"></i> ZKAccess Admin
+            </a>
+            <div class="collapse navbar-collapse">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="/Admin/Index"><i class="bi bi-house-door"></i> Главная</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/Admin/MonthlyReport"><i class="bi bi-file-earmark-text"></i> Отчет за месяц</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container py-5">
+        <div class="d-flex justify-content-between align-items-center mb-4">
+            <div>
+                <h1 class="h3 mb-0 text-dark">💰 Расчет оплаты и аванса</h1>
+                <p class="text-muted">Сотрудник: <strong>@emp?.FullName</strong> (@emp?.Position)</p>
+            </div>
+            <div>
+                <a href="/Admin/Index" class="btn btn-outline-secondary shadow-sm">
+                    <i class="bi bi-arrow-left"></i> Назад к списку
+                </a>
+            </div>
+        </div>
+
+        <!-- Фильтр по датам и ставке -->
+        <div class="card shadow-sm border-0 rounded-4 mb-4">
+            <div class="card-body">
+                <form method="get" action="/Admin/Payroll/@emp?.Id" class="row g-3 align-items-end">
+                    <div class="col-md-3">
+                        <label class="form-label fw-semibold">С даты:</label>
+                        <input type="date" name="startDate" class="form-control" value="@startDate">
+                    </div>
+                    <div class="col-md-3">
+                        <label class="form-label fw-semibold">По дату:</label>
+                        <input type="date" name="endDate" class="form-control" value="@endDate">
+                    </div>
+                    <div class="col-md-3">
+                        <label class="form-label fw-semibold">Ставка в час (сом/руб):</label>
+                        <input type="number" step="10" name="hourlyRate" class="form-control" value="@hourlyRate">
+                    </div>
+                    <div class="col-md-3">
+                        <button type="submit" class="btn btn-primary w-100">
+                            <i class="bi bi-calculator"></i> Пересчитать
+                        </button>
+                    </div>
+                </form>
+            </div>
+        </div>
+
+        <!-- Итоги расчета -->
+        <div class="row mb-4">
+            <div class="col-md-6">
+                <div class="card shadow-sm border-0 rounded-4 bg-white p-4">
+                    <h5 class="text-muted mb-2">Отработано за период</h5>
+                    <h2 class="text-primary fw-bold">@totalHours ч.</h2>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="card shadow-sm border-0 rounded-4 bg-success bg-opacity-10 p-4 border-success">
+                    <h5 class="text-success mb-2">Итого к выплате (ЗП / Аванс)</h5>
+                    <h2 class="text-success fw-bold">@totalPay</h2>
+                </div>
+            </div>
+        </div>
+
+        <!-- Детализированный список логов за выбранные дни -->
+        <div class="card shadow-sm border-0 rounded-4">
+            <div class="card-header bg-white py-3">
+                <h5 class="mb-0 text-dark">История отметок за выбранный период</h5>
+            </div>
+            <div class="card-body p-0">
+                <div class="table-responsive">
+                    <table class="table table-hover align-middle mb-0">
+                        <thead class="table-dark">
+                            <tr>
+                                <th class="ps-4">Дата и время</th>
+                                <th class="text-end pe-4">Статус</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @if (!Model.Any())
+                            {
+                                <tr>
+                                    <td colspan="2" class="text-center py-4 text-muted">За выбранные даты отметок нет.</td>
+                                </tr>
+                            }
+                            else
+                            {
+                                @foreach (var log in Model)
+                                {
+                                    <tr>
+                                        <td class="ps-4 text-secondary">
+                                            <i class="bi bi-clock"></i> @log.Timestamp.ToLocalTime().ToString("dd.MM.yyyy HH:mm:ss")
+                                        </td>
+                                        <td class="text-end pe-4">
+                                            @if (log.IsCheckIn)
+                                            {
+                                                <span class="badge bg-success bg-opacity-10 text-success px-3 py-2">ПРИХОД</span>
+                                            }
+                                            else
+                                            {
+                                                <span class="badge bg-danger bg-opacity-10 text-danger px-3 py-2">УХОД</span>
+                                            }
+                                        </td>
+                                    </tr>
+                                }
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
