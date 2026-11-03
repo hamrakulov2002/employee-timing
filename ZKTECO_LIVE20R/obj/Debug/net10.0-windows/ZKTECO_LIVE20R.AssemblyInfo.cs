@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ZKTECO_LIVE20R")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11dcad4aadb22d1a8e5e6aa3fcbe38ff21dbe54d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c4c36318c565c12413021105858c6fb58bdba6aa")]
 [assembly: System.Reflection.AssemblyProductAttribute("ZKTECO_LIVE20R")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ZKTECO_LIVE20R")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
