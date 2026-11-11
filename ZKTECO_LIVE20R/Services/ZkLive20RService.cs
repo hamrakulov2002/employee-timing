@@ -20,7 +20,6 @@ namespace ZKTECO_LIVE20R.Services
 
         public bool Initialize()
         {
-            return true;
             int initResult = zkfp2.Init();
             if (initResult != zkfp.ZKFP_ERR_OK)
             {
@@ -80,12 +79,35 @@ namespace ZKTECO_LIVE20R.Services
                         byte[] cleanTemplate = new byte[templateSize];
                         Buffer.BlockCopy(templateBuffer, 0, cleanTemplate, 0, templateSize);
 
-                        FingerprintCaptured?.Invoke(cleanTemplate);
+                        try { FingerprintCaptured?.Invoke(cleanTemplate); }
+                        catch (Exception ex) { StatusChanged?.Invoke("Ошибка обработчика: " + ex.Message); }
                     }
 
                     Thread.Sleep(150);
                 }
             }, token);
+        }
+
+        public void SimulateCapture(byte[]? customTemplate = null)
+        {
+            // Если шаблон не передан, создаем фейковый массив (размером как стандартный шаблон ZKTeco)
+            byte[] templateToInject = customTemplate ?? new byte[512];
+            if (customTemplate == null)
+            {
+                new Random().NextBytes(templateToInject);
+            }
+
+            StatusChanged?.Invoke("Эмуляция сканирования отпечатка...");
+
+            try
+            {
+                // Напрямую вызываем событие, как будто сканер только что поймал палец
+                FingerprintCaptured?.Invoke(templateToInject);
+            }
+            catch (Exception ex)
+            {
+                StatusChanged?.Invoke("Ошибка эмулятора: " + ex.Message);
+            }
         }
 
         public void CancelScan()

@@ -16,7 +16,9 @@ namespace ZKTECO_LIVE20R.Services
     public static class TelegramService
     {
         private const string BotToken = "8039879484:AAGTmzmWynYbHVcI0DLzi-pp4qPIZqkTweA";
-        private const string ChatId = "613230873";
+
+        // Список чатов всех администраторов, которым будут дублироваться уведомления и отчеты
+        private static readonly string[] AllowedChatIds = { "6782484329", "613230873" };
 
         private static readonly TelegramBotClient? _botClient;
         private static CancellationTokenSource? _cts;
@@ -74,29 +76,49 @@ namespace ZKTECO_LIVE20R.Services
         }
 
         /// <summary>
-        /// Вызывается из WPF (например, в PasswordWindow) для отправки OTP кода в Telegram
+        /// Вспомогательный метод для проверки, разрешен ли чат
+        /// </summary>
+        private static bool IsAllowedChat(long chatId)
+        {
+            return AllowedChatIds.Contains(chatId.ToString());
+        }
+
+        /// <summary>
+        /// Вызывается из WPF для отправки OTP кода всем администраторам
         /// </summary>
         public static async Task<string> RequestOtpAsync()
         {
-            if (_botClient == null || string.IsNullOrWhiteSpace(ChatId)) return string.Empty;
-
-            long targetChatId = long.Parse(ChatId);
-            var state = _userStates.GetOrAdd(targetChatId, _ => new UserState());
+            if (_botClient == null || AllowedChatIds.Length == 0) return string.Empty;
 
             // Генерируем 4-значный OTP код
             string generatedOtp = new Random().Next(1000, 9999).ToString();
-            state.ExpectedOtp = generatedOtp;
-            state.OtpExpireTime = DateTime.Now.AddMinutes(2); // Срок действия 2 минуты
-            state.Step = "WAITING_FOR_OTP";
-
             string message = $"🔑 <b>Одноразовый код доступа (OTP):</b> <code>{generatedOtp}</code>\n\n<i>Код действителен 2 минуты. Введите его в окне на терминале или отправьте боту.</i>";
 
-            await _botClient.SendMessage(
-                chatId: targetChatId,
-                text: message,
-                parseMode: ParseMode.Html,
-                replyMarkup: GetMainMenuKeyboard()
-            );
+            // Рассылаем код каждому админу из списка и обновляем его состояние
+            foreach (var chatIdStr in AllowedChatIds)
+            {
+                if (long.TryParse(chatIdStr, out long targetChatId))
+                {
+                    var state = _userStates.GetOrAdd(targetChatId, _ => new UserState());
+                    state.ExpectedOtp = generatedOtp;
+                    state.OtpExpireTime = DateTime.Now.AddMinutes(2);
+                    state.Step = "WAITING_FOR_OTP";
+
+                    try
+                    {
+                        await _botClient.SendMessage(
+                            chatId: targetChatId,
+                            text: message,
+                            parseMode: ParseMode.Html,
+                            replyMarkup: GetMainMenuKeyboard()
+                        );
+                    }
+                    catch (Exception ex)
+                    {
+                        Console.WriteLine($"[TG ERROR - RequestOtpAsync to {targetChatId}]: {ex.Message}");
+                    }
+                }
+            }
 
             return generatedOtp;
         }
@@ -110,7 +132,8 @@ namespace ZKTECO_LIVE20R.Services
                 // 1. ОБРАБОТКА ИНЛАЙН-КНОПОК
                 if (update.CallbackQuery is { } callbackQuery && !string.IsNullOrEmpty(callbackQuery.Data))
                 {
-                    if (!string.IsNullOrWhiteSpace(ChatId) && callbackQuery.Message?.Chat.Id.ToString() != ChatId) return;
+                    long senderChatId = callbackQuery.Message?.Chat.Id ?? 0;
+                    if (!IsAllowedChat(senderChatId)) return;
 
                     if (callbackQuery.Data.StartsWith("emp_"))
                     {
@@ -150,7 +173,7 @@ namespace ZKTECO_LIVE20R.Services
                             if (callbackQuery.Message != null)
                             {
                                 await botClient.SendMessage(
-                                    chatId: callbackQuery.Message.Chat.Id,
+                                    chatId: senderChatId,
                                     text: resBuilder.ToString(),
                                     parseMode: ParseMode.Html,
                                     cancellationToken: cancellationToken
@@ -168,12 +191,11 @@ namespace ZKTECO_LIVE20R.Services
                 if (string.IsNullOrEmpty(text)) return;
 
                 long userId = message.Chat.Id;
-                if (!string.IsNullOrWhiteSpace(ChatId) && userId.ToString() != ChatId) return;
+                if (!IsAllowedChat(userId)) return;
 
                 var state = _userStates.GetOrAdd(userId, _ => new UserState());
 
                 // === ПРИОРИТЕТ 1: ПРОВЕРКА КНОПОК МЕНЮ И СБРОС СОСТОЯНИЯ ===
-                // Если нажата любая системная кнопка, мы ПРИНУДИТЕЛЬНО сбрасываем ожидание OTP или имени
                 if (text.Equals("/start", StringComparison.OrdinalIgnoreCase) || text.Equals("меню", StringComparison.OrdinalIgnoreCase))
                 {
                     state.Step = "NONE";
@@ -181,9 +203,18 @@ namespace ZKTECO_LIVE20R.Services
                     return;
                 }
 
+                if(text.Equals("/test", StringComparison.OrdinalIgnoreCase))
+                {
+                    state.Step = "NONE";
+                    ZkLive20RService _zkService = new ZkLive20RService();
+                    _zkService.SimulateCapture(); // Эмуляция захвата отпечатка
+                    await botClient.SendMessage(userId, "✅ <b>Тестовое сообщение успешно отправлено.</b>", parseMode: ParseMode.Html, replyMarkup: GetMainMenuKeyboard(), cancellationToken: cancellationToken);
+                    return;
+                }
+
                 if (text.Equals("📋 Логи за сегодня", StringComparison.OrdinalIgnoreCase) || text.Equals("/logs", StringComparison.OrdinalIgnoreCase))
                 {
-                    state.Step = "NONE"; // Сбрасываем OTP шаг!
+                    state.Step = "NONE";
                     var todayUtcStart = DateTime.Now.Date.ToUniversalTime();
                     var todayLogs = await context.AttendanceLogs
                         .Include(l => l.Employee)
@@ -277,7 +308,6 @@ namespace ZKTECO_LIVE20R.Services
 
                 // === ПРИОРИТЕТ 2: ОБРАБОТКА ВВОДА OTP ИЛИ ПОШАГОВОЙ РЕГИСТРАЦИИ ===
 
-                // Проверка OTP (если пользователь отправляет код в ответ боту)
                 if (state.Step == "WAITING_FOR_OTP")
                 {
                     if (DateTime.Now > state.OtpExpireTime)
@@ -299,7 +329,6 @@ namespace ZKTECO_LIVE20R.Services
                     return;
                 }
 
-                // Пошаговый ввод ФИО и Должности
                 if (state.Step == "WAITING_FOR_NAME")
                 {
                     state.FullName = text;
@@ -339,22 +368,31 @@ namespace ZKTECO_LIVE20R.Services
             }
         }
 
+        /// <summary>
+        /// Рассылка обычных уведомлений (например, об успешном приходе/уходе или регистрации) ВСЕМ администраторам из списка
+        /// </summary>
         public static async Task SendNotificationAsync(string message)
         {
-            if (_botClient == null || string.IsNullOrWhiteSpace(ChatId)) return;
+            if (_botClient == null || AllowedChatIds.Length == 0) return;
 
-            try
+            foreach (var chatIdStr in AllowedChatIds)
             {
-                await _botClient.SendMessage(
-                    chatId: long.Parse(ChatId),
-                    text: message,
-                    parseMode: ParseMode.Html,
-                    replyMarkup: GetMainMenuKeyboard()
-                );
-            }
-            catch (Exception ex)
-            {
-                Console.WriteLine($"[TG ERROR]: {ex.Message}");
+                if (long.TryParse(chatIdStr, out long targetChatId))
+                {
+                    try
+                    {
+                        await _botClient.SendMessage(
+                            chatId: targetChatId,
+                            text: message,
+                            parseMode: ParseMode.Html,
+                            replyMarkup: GetMainMenuKeyboard()
+                        );
+                    }
+                    catch (Exception ex)
+                    {
+                        Console.WriteLine($"[TG ERROR - SendNotificationAsync to {targetChatId}]: {ex.Message}");
+                    }
+                }
             }
         }
 

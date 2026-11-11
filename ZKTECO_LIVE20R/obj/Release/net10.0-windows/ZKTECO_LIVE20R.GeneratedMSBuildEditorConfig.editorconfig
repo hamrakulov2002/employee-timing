@@ -20,30 +20,46 @@ build_property.TargetFrameworkVersion = v10.0
 build_property.EntryPointFilePath = 
 build_property.RootNamespace = ZKTECO_LIVE20R
 build_property.RootNamespace = ZKTECO_LIVE20R
-build_property.ProjectDir = D:\Dev\ZKTECO_LIVE20R\ZKTECO_LIVE20R\
+build_property.ProjectDir = D:\Dev\ZKTECO_LIVE20R_new\employee-timing — копия\ZKTECO_LIVE20R\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false
 build_property.RazorLangVersion = 10.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Dev\ZKTECO_LIVE20R\ZKTECO_LIVE20R
+build_property.MSBuildProjectDirectory = D:\Dev\ZKTECO_LIVE20R_new\employee-timing — копия\ZKTECO_LIVE20R
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 10.0
 build_property.EnableCodeStyleSeverity = 
 
-[D:/Dev/ZKTECO_LIVE20R/ZKTECO_LIVE20R/Views/Admin/Index.cshtml]
+[D:/Dev/ZKTECO_LIVE20R_new/employee-timing — копия/ZKTECO_LIVE20R/Views/Admin/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Dev/ZKTECO_LIVE20R/ZKTECO_LIVE20R/Views/Admin/MonthlyReport.cshtml]
+[D:/Dev/ZKTECO_LIVE20R_new/employee-timing — копия/ZKTECO_LIVE20R/Views/Admin/MonthlyReport.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTW9udGhseVJlcG9ydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Dev/ZKTECO_LIVE20R/ZKTECO_LIVE20R/Web/Views/Admin/Index.cshtml]
+[D:/Dev/ZKTECO_LIVE20R_new/employee-timing — копия/ZKTECO_LIVE20R/Web/Views/Admin/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViXFZpZXdzXEFkbWluXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dev/ZKTECO_LIVE20R_new/employee-timing — копия/ZKTECO_LIVE20R/Web/Views/Admin/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViXFZpZXdzXEFkbWluXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dev/ZKTECO_LIVE20R_new/employee-timing — копия/ZKTECO_LIVE20R/Web/Views/Admin/EmployeeReport.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViXFZpZXdzXEFkbWluXEVtcGxveWVlUmVwb3J0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dev/ZKTECO_LIVE20R_new/employee-timing — копия/ZKTECO_LIVE20R/Web/Views/Admin/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = V2ViXFZpZXdzXEFkbWluXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Dev/ZKTECO_LIVE20R/ZKTECO_LIVE20R/Web/Views/Admin/MonthlyReport.cshtml]
+[D:/Dev/ZKTECO_LIVE20R_new/employee-timing — копия/ZKTECO_LIVE20R/Web/Views/Admin/MonthlyReport.cshtml]
 build_metadata.AdditionalFiles.TargetPath = V2ViXFZpZXdzXEFkbWluXE1vbnRobHlSZXBvcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dev/ZKTECO_LIVE20R_new/employee-timing — копия/ZKTECO_LIVE20R/Web/Views/Admin/Payroll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViXFZpZXdzXEFkbWluXFBheXJvbGwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

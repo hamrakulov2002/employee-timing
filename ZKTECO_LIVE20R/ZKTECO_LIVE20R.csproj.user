@@ -2,6 +2,7 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <_LastSelectedProfileId>D:\Dev\ZKTECO_LIVE20R\ZKTECO_LIVE20R\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+    <NameOfLastUsedPublishProfile>D:\Dev\ZKTECO_LIVE20R_new\employee-timing — копия\ZKTECO_LIVE20R\Properties\PublishProfiles\FolderProfile1.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
   <ItemGroup>
     <Compile Update="Views\AdminRegistrationWindow.xaml.cs">

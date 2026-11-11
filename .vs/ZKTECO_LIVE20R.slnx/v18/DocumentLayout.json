@@ -1,145 +1,145 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Dev\\ZKTECO_LIVE20R\\",
+  "WorkspaceRootPath": "D:\\Dev\\ZKTECO_LIVE20R_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r\\zkteco_live20r\\services\\telegramservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\services\\telegramservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r\\zkteco_live20r\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r\\zkteco_live20r\\web\\views\\admin\\monthlyreport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\web\\views\\admin\\monthlyreport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r\\zkteco_live20r\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r\\zkteco_live20r\\web\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\web\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r\\zkteco_live20r\\web\\views\\admin\\payroll.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\web\\views\\admin\\payroll.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r\\zkteco_live20r\\web\\views\\admin\\employeereport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\web\\views\\admin\\employeereport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r\\zkteco_live20r\\web\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\web\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r\\zkteco_live20r\\web\\views\\admin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\web\\views\\admin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r\\zkteco_live20r\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r\\zkteco_live20r\\services\\zklive20rservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\services\\zklive20rservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r\\zkteco_live20r\\views\\adminregistrationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\views\\adminregistrationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r\\zkteco_live20r\\services\\attendancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\services\\attendancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r\\zkteco_live20r\\web\\webstartup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\web\\webstartup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r\\zkteco_live20r\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r\\zkteco_live20r\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r\\zkteco_live20r\\zkteco_live20r.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\zkteco_live20r\\zkteco_live20r.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\zkteco_live20r.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r\\zkteco_live20r\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\zkteco_live20r\\services\\zklive20rservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\services\\zklive20rservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r\\zkteco_live20r\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\zkteco_live20r\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r\\zkteco_live20r\\views\\passwordwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\views\\passwordwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r\\zkteco_live20r\\views\\notificationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\views\\notificationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r\\zkteco_live20r\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r\\zkteco_live20r\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\zkteco_live20r\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r\\zkteco_live20r\\infrastructure\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\infrastructure\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\zkteco_live20r\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r\\zkteco_live20r\\views\\adminregistrationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\views\\adminregistrationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\zkteco_live20r\\views\\adminregistrationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\views\\adminregistrationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r\\zkteco_live20r\\views\\passwordwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\views\\passwordwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\zkteco_live20r\\services\\telegramservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\services\\telegramservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r\\zkteco_live20r\\views\\notificationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\views\\notificationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\zkteco_live20r\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r\\zkteco_live20r\\migrations\\20260623170107_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\migrations\\20260623170107_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\zkteco_live20r\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r\\zkteco_live20r\\services\\izkfingerprintservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\services\\izkfingerprintservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\zkteco_live20r\\views\\passwordwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\views\\passwordwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r\\zkteco_live20r\\services\\iattendancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\zkteco_live20r\\views\\notificationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\views\\notificationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\zkteco_live20r\\services\\iattendancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\services\\iattendancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r\\zkteco_live20r\\infrastructure\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\zkteco_live20r\\services\\izkfingerprintservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\services\\izkfingerprintservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\zkteco_live20r\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\zkteco_live20r\\web\\views\\admin\\monthlyreport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\web\\views\\admin\\monthlyreport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\zkteco_live20r\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\zkteco_live20r\\web\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\web\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\zkteco_live20r\\web\\views\\admin\\payroll.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\web\\views\\admin\\payroll.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\zkteco_live20r\\web\\views\\admin\\employeereport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\web\\views\\admin\\employeereport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\zkteco_live20r\\web\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\web\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\zkteco_live20r\\web\\views\\admin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\web\\views\\admin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\zkteco_live20r\\services\\attendancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\services\\attendancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\zkteco_live20r\\web\\webstartup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\web\\webstartup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\zkteco_live20r\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\zkteco_live20r\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\zkteco_live20r\\infrastructure\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\infrastructure\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\zkteco_live20r\\views\\adminregistrationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\views\\adminregistrationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\zkteco_live20r\\views\\passwordwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\views\\passwordwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\zkteco_live20r\\views\\notificationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\views\\notificationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\zkteco_live20r\\migrations\\20260623170107_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\migrations\\20260623170107_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\zkteco_live20r\\infrastructure\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\infrastructure\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r\\zkteco_live20r\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\zkteco_live20r\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r\\zkteco_live20r\\models\\attendancelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\zkteco_live20r\\models\\attendancelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\models\\attendancelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r\\zkteco_live20r\\models\\fingerprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\zkteco_live20r\\models\\fingerprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\models\\fingerprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r\\zkteco_live20r\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|d:\\dev\\zkteco_live20r_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\zkteco_live20r\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D084C47-A021-1607-7CE0-D676430B3635}|ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj|solutionrelative:zkteco_live20r\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -150,7 +150,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -159,275 +159,48 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "MonthlyReport.cshtml",
-              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Web\\Views\\Admin\\MonthlyReport.cshtml",
-              "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\Web\\Views\\Admin\\MonthlyReport.cshtml",
-              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Web\\Views\\Admin\\MonthlyReport.cshtml",
-              "RelativeToolTip": "ZKTECO_LIVE20R\\Web\\Views\\Admin\\MonthlyReport.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAACgAAABeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-27T12:03:23.705Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AdminController.cs",
-              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Controllers\\AdminController.cs",
-              "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\Controllers\\AdminController.cs",
-              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Controllers\\AdminController.cs",
-              "RelativeToolTip": "ZKTECO_LIVE20R\\Controllers\\AdminController.cs",
-              "ViewState": "AgIAAJkAAAAAAAAAAAAQwKYAAAAFAAAAAAAAAA==",
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\ZKTECO_LIVE20R\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\ZKTECO_LIVE20R\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "ZKTECO_LIVE20R\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-27T11:44:56.65Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Web\\Views\\Admin\\Edit.cshtml",
-              "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\Web\\Views\\Admin\\Edit.cshtml",
-              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Web\\Views\\Admin\\Edit.cshtml",
-              "RelativeToolTip": "ZKTECO_LIVE20R\\Web\\Views\\Admin\\Edit.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACkAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-28T14:01:37.492Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Web\\Views\\Admin\\Create.cshtml",
-              "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\Web\\Views\\Admin\\Create.cshtml",
-              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Web\\Views\\Admin\\Create.cshtml",
-              "RelativeToolTip": "ZKTECO_LIVE20R\\Web\\Views\\Admin\\Create.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACcAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-28T13:48:51.953Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "EmployeeReport.cshtml",
-              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Web\\Views\\Admin\\EmployeeReport.cshtml",
-              "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\Web\\Views\\Admin\\EmployeeReport.cshtml",
-              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Web\\Views\\Admin\\EmployeeReport.cshtml",
-              "RelativeToolTip": "ZKTECO_LIVE20R\\Web\\Views\\Admin\\EmployeeReport.cshtml",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAwwGcAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-28T14:02:00.164Z"
+              "WhenOpened": "2026-06-23T16:15:42.343Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\appsettings.json",
-              "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\appsettings.json",
-              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\appsettings.json",
-              "RelativeToolTip": "ZKTECO_LIVE20R\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-06-23T15:55:52.528Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TelegramService.cs",
-              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Services\\TelegramService.cs",
-              "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\Services\\TelegramService.cs",
-              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Services\\TelegramService.cs",
-              "RelativeToolTip": "ZKTECO_LIVE20R\\Services\\TelegramService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAABZAAAAAAAAAA==",
+              "Title": "ZkLive20RService.cs",
+              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\ZKTECO_LIVE20R\\Services\\ZkLive20RService.cs",
+              "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\Services\\ZkLive20RService.cs",
+              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\ZKTECO_LIVE20R\\Services\\ZkLive20RService.cs",
+              "RelativeToolTip": "ZKTECO_LIVE20R\\Services\\ZkLive20RService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswCsAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-23T17:18:49.638Z",
+              "WhenOpened": "2026-06-23T16:54:19.69Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Web\\Views\\Admin\\Index.cshtml",
-              "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\Web\\Views\\Admin\\Index.cshtml",
-              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Web\\Views\\Admin\\Index.cshtml",
-              "RelativeToolTip": "ZKTECO_LIVE20R\\Web\\Views\\Admin\\Index.cshtml",
-              "ViewState": "AgIAABMAAAAAAAAAAIAwwB0AAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-27T12:02:59.865Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Payroll.cshtml",
-              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Web\\Views\\Admin\\Payroll.cshtml",
-              "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\Web\\Views\\Admin\\Payroll.cshtml",
-              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Web\\Views\\Admin\\Payroll.cshtml",
-              "RelativeToolTip": "ZKTECO_LIVE20R\\Web\\Views\\Admin\\Payroll.cshtml",
-              "ViewState": "AgIAABcAAAAAAAAAAAArwCEAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-28T14:11:08.347Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MainViewModel.cs",
-              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\ViewModels\\MainViewModel.cs",
-              "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\ViewModels\\MainViewModel.cs",
-              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\ViewModels\\MainViewModel.cs",
-              "RelativeToolTip": "ZKTECO_LIVE20R\\ViewModels\\MainViewModel.cs",
-              "ViewState": "AgIAAK8AAAAAAAAAAAAqwLgAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-23T16:15:42.343Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ZkLive20RService.cs",
-              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Services\\ZkLive20RService.cs",
-              "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\Services\\ZkLive20RService.cs",
-              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Services\\ZkLive20RService.cs",
-              "RelativeToolTip": "ZKTECO_LIVE20R\\Services\\ZkLive20RService.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBUAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-23T16:54:19.69Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "WebStartup.cs",
-              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Web\\WebStartup.cs",
-              "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\Web\\WebStartup.cs",
-              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Web\\WebStartup.cs",
-              "RelativeToolTip": "ZKTECO_LIVE20R\\Web\\WebStartup.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-27T11:40:37.892Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "AttendanceRepository.cs",
-              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Services\\AttendanceRepository.cs",
-              "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\Services\\AttendanceRepository.cs",
-              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Services\\AttendanceRepository.cs",
-              "RelativeToolTip": "ZKTECO_LIVE20R\\Services\\AttendanceRepository.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAIAywE0AAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-23T16:54:16.451Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "App.xaml",
-              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\App.xaml",
-              "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\App.xaml",
-              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\App.xaml",
-              "RelativeToolTip": "ZKTECO_LIVE20R\\App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-10-16T20:15:53.776Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
               "Title": "AdminRegistrationWindow.xaml.cs",
-              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Views\\AdminRegistrationWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\ZKTECO_LIVE20R\\Views\\AdminRegistrationWindow.xaml.cs",
               "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\Views\\AdminRegistrationWindow.xaml.cs",
-              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Views\\AdminRegistrationWindow.xaml.cs",
+              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\ZKTECO_LIVE20R\\Views\\AdminRegistrationWindow.xaml.cs",
               "RelativeToolTip": "ZKTECO_LIVE20R\\Views\\AdminRegistrationWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAACsAAAAAAAAAAAAuwF0AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-23T17:10:12.645Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ZKTECO_LIVE20R.csproj",
-              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj",
-              "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj",
-              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj",
-              "RelativeToolTip": "ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACMAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-10-27T11:21:45.181Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\App.xaml.cs",
-              "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\App.xaml.cs",
-              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\App.xaml.cs",
-              "RelativeToolTip": "ZKTECO_LIVE20R\\App.xaml.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAqwBkAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-27T11:00:32.129Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "AppDbContextModelSnapshot.cs",
-              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Migrations\\AppDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\Migrations\\AppDbContextModelSnapshot.cs",
-              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Migrations\\AppDbContextModelSnapshot.cs",
-              "RelativeToolTip": "ZKTECO_LIVE20R\\Migrations\\AppDbContextModelSnapshot.cs",
-              "ViewState": "AgIAAGYAAAAAAAAAAAAowIAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-27T10:51:05.789Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "PasswordWindow.xaml.cs",
-              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Views\\PasswordWindow.xaml.cs",
-              "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\Views\\PasswordWindow.xaml.cs",
-              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Views\\PasswordWindow.xaml.cs",
-              "RelativeToolTip": "ZKTECO_LIVE20R\\Views\\PasswordWindow.xaml.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAABUAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-23T17:09:18.732Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\Data\\AppDbContext.cs",
-              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "ZKTECO_LIVE20R\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAowEwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-23T15:53:03.229Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "NotificationWindow.xaml.cs",
-              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Views\\NotificationWindow.xaml.cs",
-              "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\Views\\NotificationWindow.xaml.cs",
-              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Views\\NotificationWindow.xaml.cs",
-              "RelativeToolTip": "ZKTECO_LIVE20R\\Views\\NotificationWindow.xaml.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-23T17:08:23.319Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\MainWindow.xaml",
-              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\MainWindow.xaml",
-              "RelativeToolTip": "ZKTECO_LIVE20R\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-06-23T15:32:51.006Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 4,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\ZKTECO_LIVE20R\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\ZKTECO_LIVE20R\\MainWindow.xaml.cs",
               "RelativeToolTip": "ZKTECO_LIVE20R\\MainWindow.xaml.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAABcAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -435,68 +208,118 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "RelayCommand.cs",
-              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Infrastructure\\RelayCommand.cs",
-              "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\Infrastructure\\RelayCommand.cs",
-              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Infrastructure\\RelayCommand.cs",
-              "RelativeToolTip": "ZKTECO_LIVE20R\\Infrastructure\\RelayCommand.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwA4AAAA4AAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\ZKTECO_LIVE20R\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\MainWindow.xaml",
+              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\ZKTECO_LIVE20R\\MainWindow.xaml",
+              "RelativeToolTip": "ZKTECO_LIVE20R\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-23T15:32:51.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ZKTECO_LIVE20R.csproj",
+              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj",
+              "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj",
+              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj",
+              "RelativeToolTip": "ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwCQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-27T11:21:45.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TelegramService.cs",
+              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\ZKTECO_LIVE20R\\Services\\TelegramService.cs",
+              "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\Services\\TelegramService.cs",
+              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\ZKTECO_LIVE20R\\Services\\TelegramService.cs",
+              "RelativeToolTip": "ZKTECO_LIVE20R\\Services\\TelegramService.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAAAOAAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-23T16:19:47.762Z"
+              "WhenOpened": "2026-06-23T17:18:49.638Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "AdminRegistrationWindow.xaml",
-              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Views\\AdminRegistrationWindow.xaml",
-              "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\Views\\AdminRegistrationWindow.xaml",
-              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Views\\AdminRegistrationWindow.xaml",
-              "RelativeToolTip": "ZKTECO_LIVE20R\\Views\\AdminRegistrationWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-06-23T17:09:48.156Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "PasswordWindow.xaml",
-              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Views\\PasswordWindow.xaml",
-              "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\Views\\PasswordWindow.xaml",
-              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Views\\PasswordWindow.xaml",
-              "RelativeToolTip": "ZKTECO_LIVE20R\\Views\\PasswordWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-06-23T17:09:07.19Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "NotificationWindow.xaml",
-              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Views\\NotificationWindow.xaml",
-              "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\Views\\NotificationWindow.xaml",
-              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Views\\NotificationWindow.xaml",
-              "RelativeToolTip": "ZKTECO_LIVE20R\\Views\\NotificationWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-06-23T17:07:37.987Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "20260623170107_init.cs",
-              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Migrations\\20260623170107_init.cs",
-              "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\Migrations\\20260623170107_init.cs",
-              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Migrations\\20260623170107_init.cs",
-              "RelativeToolTip": "ZKTECO_LIVE20R\\Migrations\\20260623170107_init.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "NotificationWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\ZKTECO_LIVE20R\\Views\\NotificationWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\Views\\NotificationWindow.xaml.cs",
+              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\ZKTECO_LIVE20R\\Views\\NotificationWindow.xaml.cs",
+              "RelativeToolTip": "ZKTECO_LIVE20R\\Views\\NotificationWindow.xaml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwCAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-23T17:01:07.891Z"
+              "WhenOpened": "2026-06-23T17:08:23.319Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 8,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\ZKTECO_LIVE20R\\App.xaml",
+              "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\App.xaml",
+              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\ZKTECO_LIVE20R\\App.xaml",
+              "RelativeToolTip": "ZKTECO_LIVE20R\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-16T20:15:53.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\ZKTECO_LIVE20R\\App.xaml.cs",
+              "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\App.xaml.cs",
+              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\ZKTECO_LIVE20R\\App.xaml.cs",
+              "RelativeToolTip": "ZKTECO_LIVE20R\\App.xaml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwBQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T11:00:32.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PasswordWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\ZKTECO_LIVE20R\\Views\\PasswordWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\Views\\PasswordWindow.xaml.cs",
+              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\ZKTECO_LIVE20R\\Views\\PasswordWindow.xaml.cs",
+              "RelativeToolTip": "ZKTECO_LIVE20R\\Views\\PasswordWindow.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T17:09:18.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAttendanceRepository.cs",
+              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\ZKTECO_LIVE20R\\Services\\IAttendanceRepository.cs",
+              "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\Services\\IAttendanceRepository.cs",
+              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\ZKTECO_LIVE20R\\Services\\IAttendanceRepository.cs",
+              "RelativeToolTip": "ZKTECO_LIVE20R\\Services\\IAttendanceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T16:54:11.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\ZKTECO_LIVE20R\\appsettings.json",
+              "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\appsettings.json",
+              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\ZKTECO_LIVE20R\\appsettings.json",
+              "RelativeToolTip": "ZKTECO_LIVE20R\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-23T15:55:52.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "IZkFingerprintService.cs",
-              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Services\\IZkFingerprintService.cs",
+              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\ZKTECO_LIVE20R\\Services\\IZkFingerprintService.cs",
               "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\Services\\IZkFingerprintService.cs",
-              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Services\\IZkFingerprintService.cs",
+              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\ZKTECO_LIVE20R\\Services\\IZkFingerprintService.cs",
               "RelativeToolTip": "ZKTECO_LIVE20R\\Services\\IZkFingerprintService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -504,23 +327,200 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "IAttendanceRepository.cs",
-              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Services\\IAttendanceRepository.cs",
-              "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\Services\\IAttendanceRepository.cs",
-              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Services\\IAttendanceRepository.cs",
-              "RelativeToolTip": "ZKTECO_LIVE20R\\Services\\IAttendanceRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "DocumentIndex": 14,
+              "Title": "MonthlyReport.cshtml",
+              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\ZKTECO_LIVE20R\\Web\\Views\\Admin\\MonthlyReport.cshtml",
+              "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\Web\\Views\\Admin\\MonthlyReport.cshtml",
+              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\ZKTECO_LIVE20R\\Web\\Views\\Admin\\MonthlyReport.cshtml",
+              "RelativeToolTip": "ZKTECO_LIVE20R\\Web\\Views\\Admin\\MonthlyReport.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACgAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-27T12:03:23.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EmployeeReport.cshtml",
+              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\ZKTECO_LIVE20R\\Web\\Views\\Admin\\EmployeeReport.cshtml",
+              "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\Web\\Views\\Admin\\EmployeeReport.cshtml",
+              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\ZKTECO_LIVE20R\\Web\\Views\\Admin\\EmployeeReport.cshtml",
+              "RelativeToolTip": "ZKTECO_LIVE20R\\Web\\Views\\Admin\\EmployeeReport.cshtml",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAwwGcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-28T14:02:00.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\ZKTECO_LIVE20R\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\ZKTECO_LIVE20R\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "ZKTECO_LIVE20R\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAQwKYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-23T16:54:11.945Z"
+              "WhenOpened": "2026-10-27T11:44:56.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\ZKTECO_LIVE20R\\Web\\Views\\Admin\\Create.cshtml",
+              "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\Web\\Views\\Admin\\Create.cshtml",
+              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\ZKTECO_LIVE20R\\Web\\Views\\Admin\\Create.cshtml",
+              "RelativeToolTip": "ZKTECO_LIVE20R\\Web\\Views\\Admin\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-28T13:48:51.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\ZKTECO_LIVE20R\\Web\\Views\\Admin\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\Web\\Views\\Admin\\Edit.cshtml",
+              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\ZKTECO_LIVE20R\\Web\\Views\\Admin\\Edit.cshtml",
+              "RelativeToolTip": "ZKTECO_LIVE20R\\Web\\Views\\Admin\\Edit.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-28T14:01:37.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\ZKTECO_LIVE20R\\Web\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\Web\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\ZKTECO_LIVE20R\\Web\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "ZKTECO_LIVE20R\\Web\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAIAwwB0AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-27T12:02:59.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Payroll.cshtml",
+              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\ZKTECO_LIVE20R\\Web\\Views\\Admin\\Payroll.cshtml",
+              "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\Web\\Views\\Admin\\Payroll.cshtml",
+              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\ZKTECO_LIVE20R\\Web\\Views\\Admin\\Payroll.cshtml",
+              "RelativeToolTip": "ZKTECO_LIVE20R\\Web\\Views\\Admin\\Payroll.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAArwCEAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-28T14:11:08.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "WebStartup.cs",
+              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\ZKTECO_LIVE20R\\Web\\WebStartup.cs",
+              "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\Web\\WebStartup.cs",
+              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\ZKTECO_LIVE20R\\Web\\WebStartup.cs",
+              "RelativeToolTip": "ZKTECO_LIVE20R\\Web\\WebStartup.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T11:40:37.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AttendanceRepository.cs",
+              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\ZKTECO_LIVE20R\\Services\\AttendanceRepository.cs",
+              "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\Services\\AttendanceRepository.cs",
+              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\ZKTECO_LIVE20R\\Services\\AttendanceRepository.cs",
+              "RelativeToolTip": "ZKTECO_LIVE20R\\Services\\AttendanceRepository.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAIAywE0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T16:54:16.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\ZKTECO_LIVE20R\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\ZKTECO_LIVE20R\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "ZKTECO_LIVE20R\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAowIAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T10:51:05.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\ZKTECO_LIVE20R\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\ZKTECO_LIVE20R\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ZKTECO_LIVE20R\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAowEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T15:53:03.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\ZKTECO_LIVE20R\\Infrastructure\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\Infrastructure\\RelayCommand.cs",
+              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\ZKTECO_LIVE20R\\Infrastructure\\RelayCommand.cs",
+              "RelativeToolTip": "ZKTECO_LIVE20R\\Infrastructure\\RelayCommand.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwA4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T16:19:47.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AdminRegistrationWindow.xaml",
+              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\ZKTECO_LIVE20R\\Views\\AdminRegistrationWindow.xaml",
+              "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\Views\\AdminRegistrationWindow.xaml",
+              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\ZKTECO_LIVE20R\\Views\\AdminRegistrationWindow.xaml",
+              "RelativeToolTip": "ZKTECO_LIVE20R\\Views\\AdminRegistrationWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-23T17:09:48.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PasswordWindow.xaml",
+              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\ZKTECO_LIVE20R\\Views\\PasswordWindow.xaml",
+              "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\Views\\PasswordWindow.xaml",
+              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\ZKTECO_LIVE20R\\Views\\PasswordWindow.xaml",
+              "RelativeToolTip": "ZKTECO_LIVE20R\\Views\\PasswordWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-23T17:09:07.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "NotificationWindow.xaml",
+              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\ZKTECO_LIVE20R\\Views\\NotificationWindow.xaml",
+              "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\Views\\NotificationWindow.xaml",
+              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\ZKTECO_LIVE20R\\Views\\NotificationWindow.xaml",
+              "RelativeToolTip": "ZKTECO_LIVE20R\\Views\\NotificationWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-23T17:07:37.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20260623170107_init.cs",
+              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\ZKTECO_LIVE20R\\Migrations\\20260623170107_init.cs",
+              "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\Migrations\\20260623170107_init.cs",
+              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\ZKTECO_LIVE20R\\Migrations\\20260623170107_init.cs",
+              "RelativeToolTip": "ZKTECO_LIVE20R\\Migrations\\20260623170107_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T17:01:07.891Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 30,
               "Title": "ViewModelBase.cs",
-              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Infrastructure\\ViewModelBase.cs",
+              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\ZKTECO_LIVE20R\\Infrastructure\\ViewModelBase.cs",
               "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\Infrastructure\\ViewModelBase.cs",
-              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Infrastructure\\ViewModelBase.cs",
+              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\ZKTECO_LIVE20R\\Infrastructure\\ViewModelBase.cs",
               "RelativeToolTip": "ZKTECO_LIVE20R\\Infrastructure\\ViewModelBase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABpAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -530,9 +530,9 @@
               "$type": "Document",
               "DocumentIndex": 31,
               "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\ZKTECO_LIVE20R\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\AssemblyInfo.cs",
-              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\AssemblyInfo.cs",
+              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\ZKTECO_LIVE20R\\AssemblyInfo.cs",
               "RelativeToolTip": "ZKTECO_LIVE20R\\AssemblyInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -542,9 +542,9 @@
               "$type": "Document",
               "DocumentIndex": 32,
               "Title": "AttendanceLog.cs",
-              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Models\\AttendanceLog.cs",
+              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\ZKTECO_LIVE20R\\Models\\AttendanceLog.cs",
               "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\Models\\AttendanceLog.cs",
-              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Models\\AttendanceLog.cs",
+              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\ZKTECO_LIVE20R\\Models\\AttendanceLog.cs",
               "RelativeToolTip": "ZKTECO_LIVE20R\\Models\\AttendanceLog.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -554,9 +554,9 @@
               "$type": "Document",
               "DocumentIndex": 33,
               "Title": "FingerPrint.cs",
-              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Models\\FingerPrint.cs",
+              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\ZKTECO_LIVE20R\\Models\\FingerPrint.cs",
               "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\Models\\FingerPrint.cs",
-              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Models\\FingerPrint.cs",
+              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\ZKTECO_LIVE20R\\Models\\FingerPrint.cs",
               "RelativeToolTip": "ZKTECO_LIVE20R\\Models\\FingerPrint.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -566,9 +566,9 @@
               "$type": "Document",
               "DocumentIndex": 34,
               "Title": "Employee.cs",
-              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Models\\Employee.cs",
+              "DocumentMoniker": "D:\\Dev\\ZKTECO_LIVE20R_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\ZKTECO_LIVE20R\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "ZKTECO_LIVE20R\\Models\\Employee.cs",
-              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\Models\\Employee.cs",
+              "ToolTip": "D:\\Dev\\ZKTECO_LIVE20R_new\\employee-timing \u2014 \u043A\u043E\u043F\u0438\u044F\\ZKTECO_LIVE20R\\Models\\Employee.cs",
               "RelativeToolTip": "ZKTECO_LIVE20R\\Models\\Employee.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

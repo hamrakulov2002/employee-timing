@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ir6wik53xgc=",
+  "dgSpecHash": "hXoYo/lOMCo=",
   "success": true,
-  "projectFilePath": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj",
+  "projectFilePath": "D:\\Dev\\ZKTECO_LIVE20R_new\\employee-timing — копия\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hamra\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\hamra\\.nuget\\packages\\microsoft.build\\17.7.2\\microsoft.build.17.7.2.nupkg.sha512",
@@ -38,29 +38,20 @@
     "C:\\Users\\hamra\\.nuget\\packages\\system.composition.runtime\\9.0.0\\system.composition.runtime.9.0.0.nupkg.sha512",
     "C:\\Users\\hamra\\.nuget\\packages\\system.composition.typedparts\\9.0.0\\system.composition.typedparts.9.0.0.nupkg.sha512",
     "C:\\Users\\hamra\\.nuget\\packages\\system.reflection.metadataloadcontext\\7.0.0\\system.reflection.metadataloadcontext.7.0.0.nupkg.sha512",
-    "C:\\Users\\hamra\\.nuget\\packages\\telegram.bot\\22.10.1\\telegram.bot.22.10.1.nupkg.sha512"
+    "C:\\Users\\hamra\\.nuget\\packages\\telegram.bot\\22.10.1\\telegram.bot.22.10.1.nupkg.sha512",
+    "C:\\Users\\hamra\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\10.0.13\\microsoft.netcore.app.runtime.win-x64.10.0.13.nupkg.sha512",
+    "C:\\Users\\hamra\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\10.0.13\\microsoft.windowsdesktop.app.runtime.win-x64.10.0.13.nupkg.sha512",
+    "C:\\Users\\hamra\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\10.0.13\\microsoft.aspnetcore.app.runtime.win-x64.10.0.13.nupkg.sha512"
   ],
   "logs": [
     {
       "code": "NU1510",
       "level": "Warning",
-      "message": "PackageReference Microsoft.Extensions.Hosting.Abstractions не будет урезано. Этот пакет доступен автоматически, и на него не нужно явно ссылаться. Удалите элемент PackageReference.",
-      "projectPath": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj",
+      "message": "PackageReference Microsoft.Extensions.Configuration не будет урезано. Этот пакет доступен автоматически, и на него не нужно явно ссылаться. Удалите элемент PackageReference.",
+      "projectPath": "D:\\Dev\\ZKTECO_LIVE20R_new\\employee-timing — копия\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj",
       "warningLevel": 1,
-      "filePath": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj",
-      "libraryId": "Microsoft.Extensions.Hosting.Abstractions",
-      "targetGraphs": [
-        "net10.0-windows7.0"
-      ]
-    },
-    {
-      "code": "NU1510",
-      "level": "Warning",
-      "message": "PackageReference Microsoft.Extensions.Hosting не будет урезано. Этот пакет доступен автоматически, и на него не нужно явно ссылаться. Удалите элемент PackageReference.",
-      "projectPath": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj",
-      "warningLevel": 1,
-      "filePath": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj",
-      "libraryId": "Microsoft.Extensions.Hosting",
+      "filePath": "D:\\Dev\\ZKTECO_LIVE20R_new\\employee-timing — копия\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj",
+      "libraryId": "Microsoft.Extensions.Configuration",
       "targetGraphs": [
         "net10.0-windows7.0"
       ]
@@ -69,9 +60,9 @@
       "code": "NU1510",
       "level": "Warning",
       "message": "PackageReference Microsoft.Extensions.Configuration.Json не будет урезано. Этот пакет доступен автоматически, и на него не нужно явно ссылаться. Удалите элемент PackageReference.",
-      "projectPath": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj",
+      "projectPath": "D:\\Dev\\ZKTECO_LIVE20R_new\\employee-timing — копия\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj",
       "warningLevel": 1,
-      "filePath": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj",
+      "filePath": "D:\\Dev\\ZKTECO_LIVE20R_new\\employee-timing — копия\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj",
       "libraryId": "Microsoft.Extensions.Configuration.Json",
       "targetGraphs": [
         "net10.0-windows7.0"
@@ -80,11 +71,23 @@
     {
       "code": "NU1510",
       "level": "Warning",
-      "message": "PackageReference Microsoft.Extensions.Configuration не будет урезано. Этот пакет доступен автоматически, и на него не нужно явно ссылаться. Удалите элемент PackageReference.",
-      "projectPath": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj",
+      "message": "PackageReference Microsoft.Extensions.Hosting не будет урезано. Этот пакет доступен автоматически, и на него не нужно явно ссылаться. Удалите элемент PackageReference.",
+      "projectPath": "D:\\Dev\\ZKTECO_LIVE20R_new\\employee-timing — копия\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj",
       "warningLevel": 1,
-      "filePath": "D:\\Dev\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj",
-      "libraryId": "Microsoft.Extensions.Configuration",
+      "filePath": "D:\\Dev\\ZKTECO_LIVE20R_new\\employee-timing — копия\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj",
+      "libraryId": "Microsoft.Extensions.Hosting",
+      "targetGraphs": [
+        "net10.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1510",
+      "level": "Warning",
+      "message": "PackageReference Microsoft.Extensions.Hosting.Abstractions не будет урезано. Этот пакет доступен автоматически, и на него не нужно явно ссылаться. Удалите элемент PackageReference.",
+      "projectPath": "D:\\Dev\\ZKTECO_LIVE20R_new\\employee-timing — копия\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\Dev\\ZKTECO_LIVE20R_new\\employee-timing — копия\\ZKTECO_LIVE20R\\ZKTECO_LIVE20R.csproj",
+      "libraryId": "Microsoft.Extensions.Hosting.Abstractions",
       "targetGraphs": [
         "net10.0-windows7.0"
       ]
